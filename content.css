@@ -1,0 +1,29 @@
+.page {
+  width:500px;
+  height:700px;
+}
+
+#article_title {
+  font-family: 'Anton';
+  font-weight:lighter;
+  letter-spacing: 5px;
+  line-height: 50px;
+}
+
+#intro {
+  font-family: 'Oswald';
+  font-weight:600;
+}
+
+.question{
+  font-family:'Railway';
+}
+
+.answer{
+  font-family: 'Railway';
+  font-weight:100px;
+}
+
+#block_quote {
+  font-family: 'Oswald';
+}
