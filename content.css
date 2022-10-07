@@ -1,6 +1,7 @@
 .page {
   width:500px;
   height:700px;
+  color:#D3D0CB;
 }
 
 #article_title {
@@ -8,22 +9,34 @@
   font-weight:lighter;
   letter-spacing: 5px;
   line-height: 50px;
+  height:50px
+  color:#461220;
 }
 
 #intro {
   font-family: 'Oswald';
   font-weight:600;
+  height:50px;
+  color:#8C2F39;
 }
 
 .question{
   font-family:'Railway';
+  color:#4C5760;
+  height:20px;
 }
 
 .answer{
   font-family: 'Railway';
   font-weight:100px;
+  height:20px;
+  color:#4C5760;
 }
 
 #block_quote {
   font-family: 'Oswald';
+  color:#8C2F39;
+  height:40px;
+  font-size:20px;
+  outline-style:dotted;
 }
